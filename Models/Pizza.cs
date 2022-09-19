@@ -24,7 +24,7 @@ namespace PizzaStore.Models
         [Key]
         public int Id { get; set; }
         [ForeignKey("Topping")]
-        public int PizzaId { get; set;}
+        public int PizzaId { get; set;} //
         public string toppingsList { get; set;}
         public Topping Topping { get; set; }
     }
