@@ -1,5 +1,5 @@
 # PizzaStore-WebService
-ASP.NET Core application hosted/deplyed on Azure Web-Services supported by SQL database. (Project Status: Incomplete, please see https://github.com/mitchelllindgren8/PizzaStore for console application version)
+ASP.NET Core application hosted/depolyed on Azure Web-Services supported by SQL database. (Project Status: Incomplete, please see https://github.com/mitchelllindgren8/PizzaStore for console application version)
 
 ## Download/Deploy Instructions for Windows OS
 - Download the PizzaStore-WebService folder "Download ZIP"
